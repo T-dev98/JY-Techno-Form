@@ -33,7 +33,7 @@ const RegistrationForm = () => {
   };
 
   const handleSubmit = () => {
-    // Handle form submission here (e.g., send data to an API)
+  
     alert('Form submitted successfully!');
   };
 
